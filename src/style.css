@@ -85,13 +85,11 @@
     margin-top: 0%;
 }
 
-#searchBtn {
-    box-shadow: none;
-    background: none;
+.dropBtn {
     color: black;
 }
 
-#searchBtn:hover {
+.dropBtn:hover {
     color: white;
 }
 
