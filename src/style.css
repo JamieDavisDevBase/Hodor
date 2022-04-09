@@ -75,7 +75,7 @@
 /* Color */
 
 .navbar-toggler.collapsed .toggler-icon {
-    background:rgba(11,168,200);
+    background:rgba(11,168,200,1);
 }
 
 .navbar {
@@ -83,3 +83,19 @@
     margin-top: 0%;
 }
 
+#searchBtn {
+    box-shadow: none;
+    background: none;
+}
+
+#searchBtn:hover {
+    color: white;
+}
+
+.navbar a:hover {
+    color: #fff;
+}
+
+.nav-link:hover {
+    color: white !important;
+}
